@@ -4,24 +4,24 @@ Predicting house prices with EDA, feature engineering, and 5 regression models �
 
 A machine learning project that predicts house sale prices based on property features (size, quality, location-related attributes, etc.) using the Ames Housing dataset. Multiple regression models are trained and compared to find the best performer.
 
-**Libraries**
+## Libraries Used
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB)
-![NumPy](https://img.shields.io/badge/NumPy-Array%20Computing-013243)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
-![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4C72B0)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-ML-F7931E)
-![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-2E7D32)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626)
+- Python 3.x
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- scikit-learn
+- XGBoost
+- Jupyter Notebook
 
-**Models Trained**
+## Models Trained
 
-![Linear Regression](https://img.shields.io/badge/Model-Linear%20Regression-9cf)
-![Decision Tree](https://img.shields.io/badge/Model-Decision%20Tree-9cf)
-![Random Forest](https://img.shields.io/badge/Model-Random%20Forest-9cf)
-![Gradient Boosting](https://img.shields.io/badge/Model-Gradient%20Boosting%20%E2%98%85%20Best-gold)
-![XGBoost Model](https://img.shields.io/badge/Model-XGBoost-9cf)
+- Linear Regression
+- Decision Tree Regressor
+- Random Forest Regressor
+- Gradient Boosting Regressor (Best Model — R² ≈ 0.9006)
+- XGBoost Regressor
 
 **Project Info**
 
@@ -128,9 +128,6 @@ jupyter notebook notebooks/House_Price_Prediction.ipynb
 - scikit-learn
 - xgboost
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
