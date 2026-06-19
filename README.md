@@ -23,10 +23,6 @@ A machine learning project that predicts house sale prices based on property fea
 - Gradient Boosting Regressor (Best Model — R² ≈ 0.9006)
 - XGBoost Regressor
 
-**Project Info**
-
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-![R2 Score](https://img.shields.io/badge/Best%20R²-0.9006-success)
 
 ## Overview
 
